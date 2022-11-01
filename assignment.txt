@@ -1,2 +1,3 @@
 First Commit    Created a new text file
 Second Commit   Updated text file file
+Fourth Commit   Updating Files via Diff Branch and Merge Conflict Creation
