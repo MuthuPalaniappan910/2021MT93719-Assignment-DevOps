@@ -1,0 +1,2 @@
+First Commit    Created a new text file
+Second Commit   Updated text file file
